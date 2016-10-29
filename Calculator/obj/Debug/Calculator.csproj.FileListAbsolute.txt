@@ -1,0 +1,9 @@
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\anki\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
